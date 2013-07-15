@@ -1,4 +1,3 @@
-
 #!/usr/bin/env node
 /*
 Automatically grade files for the presence of specified HTML tags/atributes.
